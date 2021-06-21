@@ -1,4 +1,4 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?color=gradient&type=rect&section=header&text=Welcome%20To%20OneTop4458's%20GitHub&fontSize=40&animation=fadeIn)
 
 <!--
 **OneTop4458/OneTop4458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +22,3 @@ Here are some ideas to get you started:
   </div>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OneTop4458&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OneTop4458&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
