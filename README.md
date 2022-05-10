@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 <p align="center">
     ✨C++ 개발자 이병준입니다.✨ <br />
-    현재 CVE 취약점 진단 솔루션(B2B) 엔진파트를 담당하고 있습니다.
+    현재 CCE 취약점 진단 솔루션(B2B) 엔진파트를 담당하고 있습니다.
     <br />
 </p>
 
