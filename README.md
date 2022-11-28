@@ -24,12 +24,6 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=OneTop4458&count_private=true&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
   </div>
-  
-<p align="center">
-    ✨C++ 개발자 이병준입니다.✨ <br />
-    현재 CCE 취약점 진단 솔루션(B2B) 엔진파트를 담당하고 있습니다.
-    <br />
-</p>
 
 
 ## 🔭My Skills
